@@ -4,15 +4,14 @@ Me chamo Thiago Lucas Soares Brigida, tenho 19 anos e sou natural de Varginha. C
 
 <p align="left">
 <a href="mailto:thiago.brigi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/thiagolucassoaresbrigida" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/thiago_l.17" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsousaa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
