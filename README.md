@@ -15,8 +15,6 @@ Me chamo Thiago Lucas Soares Brigida, tenho 19 anos e sou natural de Varginha. C
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsousaa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
