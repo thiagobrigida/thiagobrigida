@@ -1,6 +1,23 @@
-#💻 Thiago Brigida
+# 💻 Thiago Brigida
 
 Me chamo Thiago Lucas Soares Brigida, tenho 19 anos e sou natural de Varginha. Concluí o ensino médio no CEFET-MG, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Ufla.
+
+<p align="left">
+<a href="mailto:thiago.brigi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.instagram.com/thiago.l_17" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsousaa&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -32,17 +49,10 @@ Me chamo Thiago Lucas Soares Brigida, tenho 19 anos e sou natural de Varginha. C
 />
 <img 
 </p>
+
+---
+
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
