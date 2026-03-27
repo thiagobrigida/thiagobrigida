@@ -6,7 +6,7 @@ Me chamo Thiago Lucas Soares Brigida, tenho 19 anos e sou natural de Varginha. C
 <a href="mailto:thiago.brigi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.instagram.com/thiago.l_17" target="_blank">
+<a href="https://www.instagram.com/thiago_l.17" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>
